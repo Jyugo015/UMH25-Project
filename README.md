@@ -25,4 +25,4 @@ pip install streamlit
    ```bash
    streamlit run .\bgbutton.py
 
-**Note:** Make sure to download the required image and place
+**Note:** Make sure to download the required image and place it in the same directory as bgbutton.py.
