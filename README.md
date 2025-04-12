@@ -26,3 +26,7 @@ pip install streamlit
    streamlit run .\bgbutton.py
 
 **Note:** Make sure to download the required image and place it in the same directory as bgbutton.py.
+
+# Presentation Slides
+Click the link to access the presentation slides: \
+Link:https://www.canva.com/design/DAGkInRFiT8/8yHUGm4h9HmGKTVZM2fLSg/edit?utm_content=DAGkInRFiT8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
